@@ -4,7 +4,7 @@
 💻 passionate about fintech, AI, and human-centered design
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,figma,js,aws,azure,nextjs,git,cpp,python,express,firebase,ai,dotnet)](https://skillicons.dev)
 
 <!--
 **angeliinawang/angeliinawang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
