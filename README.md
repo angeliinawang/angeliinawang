@@ -4,19 +4,14 @@
 💻 passionate about fintech, AI, and human-centered design
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,figma,js,aws,azure,nextjs,git,cpp,python,express,firebase,ai,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,js,nextjs,git,java,cpp,python,express,azure,dotnet,firebase,figma,ai)](https://skillicons.dev)
 
-<!--
-**angeliinawang/angeliinawang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
+### Farallon Capital Trade Allocation Review
+A full-stack React and C# application that processes trade and allocation data to reduce manual review time and improve accuracy in portfolio allocation validation.
 
-Here are some ideas to get you started:
+### Center Stage Dance Studio Management Platform
+A full-stack web application for class registration, scheduling, and studio operations, streamlining booking and administrative workflows for instructors and students.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Budget Buddy
+A web application that helps college students track and manage finances through interactive budgeting and spending dashboards.
