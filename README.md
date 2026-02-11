@@ -1,6 +1,6 @@
 ## Hi, I'm Angelina! 👋
 
-🎓 cs student @ uci
+🎓 cs student @ uci  
 💻 passionate about fintech, AI, and human-centered design
 
 ## Tech Stack
