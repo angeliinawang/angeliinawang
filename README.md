@@ -1,4 +1,4 @@
-## # Hi, I'm Angelina! 👋
+## Hi, I'm Angelina! 👋
 
 🎓 cs student @ uci
 💻 passionate about fintech, AI, and human-centered design
